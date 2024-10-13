@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rs teacher | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/rs-teacher/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:11:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>God-Online</title>
+		<link>https://mirandanet.ac.uk/blog/2005/01/18/god-online/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2005 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[ICT in religious studies]]></category>
+		<category><![CDATA[online resources]]></category>
+		<category><![CDATA[religious studies]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[rs teacher]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2005/01/18/god-online/</guid>
+
+					<description><![CDATA[&#160; Online Resources [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract The most challenging topic that every RS teacher has to face is teaching young people the &#8220;Passion of Christ.&#8221; The lack of a good text book covering the topic and rather ... <div><a href="https://mirandanet.ac.uk/blog/2005/01/18/god-online/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>imovie | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/imovie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:11 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Case Study: iMovie</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/13/case-study-imovie/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[classroom]]></category>
+		<category><![CDATA[curriculum]]></category>
+		<category><![CDATA[ICT]]></category>
+		<category><![CDATA[imovie]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[student]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/13/case-study-imovie/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract In rural North Wales children are using Apple’s iMovie 2 digital video editing programme and iMacs to enhance investigations, communicate ideas and develop literacy skills. Ysgol Frongoch is a 240 pupil 10 teacher ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/13/case-study-imovie/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

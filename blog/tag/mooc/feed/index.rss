@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MOOC | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/mooc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Thu, 05 Sep 2019 11:05:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Can online learning substitute for the human interface?</title>
+		<link>https://mirandanet.ac.uk/blog/2017/07/03/can-online-learning-substitute-human-interface/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Sun, 02 Jul 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[MOOC]]></category>
+		<category><![CDATA[OER]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/07/03/can-online-learning-substitute-human-interface/</guid>
+
+					<description><![CDATA[Last week at the Future EdTech conference in London I was invited onto a panel sharing views about open learning in higher education. I was drawing on MirandaNet Fellowship experiences of online learning since 1999 when MirandaNet started working with ... <div><a href="https://mirandanet.ac.uk/blog/2017/07/03/can-online-learning-substitute-human-interface/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UnitedClassroom dot org</title>
+		<link>https://mirandanet.ac.uk/blog/2014/12/23/united-classroom/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[MOOC]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[SPOC]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2014/12/23/united-classroom/</guid>
+
+					<description><![CDATA[Small Private Online Course [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract A national group of school&#8217;s project to deliver qualifications between institutions. Author: Dominic Norrish Publication Date: 2014  [s2If !is_user_logged_in()]To see the complete Case Study, please Login or Join.[/s2If] [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; ... <div><a href="https://mirandanet.ac.uk/blog/2014/12/23/united-classroom/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

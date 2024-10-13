@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>policy | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Tue, 27 Aug 2019 12:58:53 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Edtech Development: easing the limits on innovation and practice</title>
+		<link>https://mirandanet.ac.uk/blog/2017/03/30/edtech-policy-limits-innovation/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[CPD]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[policy]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/03/30/edtech-policy-limits-innovation/</guid>
+
+					<description><![CDATA[This editorial article appeared in the 26th March 2017 issue of the MirandaNet newsletter Comments are particularly welcomed if they contribute to the formation of the agenda for the meeting outlined below. You must be logged in as a MirandaNet ... <div><a href="https://mirandanet.ac.uk/blog/2017/03/30/edtech-policy-limits-innovation/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>improve teaching | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/improve-teaching/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:11:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>St Mary’s &#8211; Creating excitement about learning</title>
+		<link>https://mirandanet.ac.uk/blog/2005/01/18/st-marys-creating-excitement-learning/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2005 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[creativity]]></category>
+		<category><![CDATA[improve learning]]></category>
+		<category><![CDATA[improve teaching]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2005/01/18/st-marys-creating-excitement-learning/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Author: Jenny Ketley Publication Date: 2005 [s2If !is_user_logged_in()]To see the complete Case Study, please Login or Join.[/s2If] [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] [s2If is_user_logged_in()] &#160; 1. What kind of reading should I do? As per the research ... <div><a href="https://mirandanet.ac.uk/blog/2005/01/18/st-marys-creating-excitement-learning/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

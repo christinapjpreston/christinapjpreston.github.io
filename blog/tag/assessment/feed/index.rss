@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>assessment | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/assessment/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:06:18 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The Guardian: Thousands of primary schools&#8217; rankings upended by new Sats</title>
+		<link>https://mirandanet.ac.uk/blog/2016/12/15/the-guardian-thousands-of-primary-schools-rankings-upended-by-new-sats/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[testing]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/12/15/the-guardian-thousands-of-primary-schools-rankings-upended-by-new-sats/</guid>
+
+					<description><![CDATA[&#8220;Thousands of primary schools across England, along with local authorities, have seen their league table positions upended as a result of tough new exams last summer, with school leaders saying the volatile results have vindicated their concerns over rushed implementation.&#8221; ... <div><a href="https://mirandanet.ac.uk/blog/2016/12/15/the-guardian-thousands-of-primary-schools-rankings-upended-by-new-sats/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

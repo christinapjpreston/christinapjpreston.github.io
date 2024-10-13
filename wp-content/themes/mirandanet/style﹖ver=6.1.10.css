@@ -1,0 +1,218 @@
+/*
+
+Theme Name: MirandaNet
+Theme URI: http://mirandanet.ac.uk/
+Author: 
+Author URI:
+Description: The theme for MirandaNet
+Version: 0.0.1
+Template: x
+
+*/
+
+
+
+/* HEADER==================================================================================*/
+
+/*Object next to header logo - disabled
+.x-logobar-inner .x-container:after {
+   content: url('https://mirandanet.ac.uk/wp-content/themes/mirandanet/complete_path_to_the_image');
+    content: ('Hello')
+    float: right;
+}*/
+
+/*Left align Logo - disabled
+.x-logobar {
+text-align: left;
+}*/
+
+/* MENUS==================================================================================*/
+
+
+/*Height of Top Bar area when turned on*/
+.x-topbar {max-height:50px;}
+
+/* Remove Menu selector bar */
+.x-navbar .desktop .x-nav > li > a:hover, .x-navbar .desktop .x-nav > .x-active > a, .x-navbar .desktop .x-nav > .current-menu-item  > a {box-shadow: none !important;}
+
+/* Menu font size*/
+.x-navbar .x-nav-wrap .x-nav > li > a {
+font-size: 12pt;
+padding-top: 0px;
+}
+/*Menu sub-item font size and vertical space between items*/
+.x-navbar .sub-menu a {
+font-size: 11pt;
+padding-top:4px;
+padding-bottom:4px;
+}
+/*Space 'tween menus & items*/
+.x-navbar .desktop .x-nav > li > a {
+padding-left: 0px;
+padding-right: 5px;
+}
+
+/*.x-navbar .sub-menu > ul {
+margin-left:0!important;
+}*/
+
+/*
+.x-navbar .x-nav > li > a { 
+    word-spacing: 0px;
+}*/
+
+/* ========================================================================================*/
+
+
+/* CONTENT=================================================================================*/
+
+
+
+/*Change size of 'Comment' titles'*/
+Wording handled in functions,.php
+h2.h-comments-title span {
+    font-size: 20px;
+}
+
+#reply-title.comment-reply-title {
+    font-size: 20px;
+}
+/* disabled
+.comment-form-comment label, .comment-form-email label, .comment-form-url label, .comment-form-rating label, .comment-form-comment label {
+display:none;
+}
+*/
+
+.comment-form-author label, .comment-form-email label, .comment-form-url label, .comment-form-rating label, .comment-form-comment label {
+font-size: 15px;
+}
+.comment-form-author:before, .comment-form-email:before, .comment-form-url:before {
+display: none;
+}
+
+/*Cornerstone custom line*/
+.custom-line {border-color: #b64d61; border-width:thin 0 0;}
+
+/*default header settings*/
+h1, h2, h3, h4, h5, h6  {margin-top:10px;}
+
+/*Blog headings*/
+h1.h-landmark {
+font-size:32px;
+}
+p.p-landmark-sub {
+font-size:18px;
+}
+h2.entry-title {
+font-size:20px;
+}
+/*-----------------------------------------------------------*/
+/*Accordion styling*/
+ .x-accordion-heading {
+     font-size:18px;
+ }
+/* ========================================================================================*/
+
+
+/* SIDEBARS================================================================================*/
+
+/* background colour/border of forum list widget */
+.widget>ul {
+background-color:#ffffff;
+      border-radius: 0px;
+      border:1px solid grey;
+}
+
+/* FOOTER==================================================================================*/
+
+/* Footer background colour - disabled */
+/*.x-colophon {
+    position: relative;
+    border-top: 1px solid #d4d4d4;
+    background-color: #f0f0f0;
+    box-shadow: 0 -0.125em 0.25em 0 rgba(0,0,0,0.075);
+}
+*/
+/* ========================================================================================*/
+
+
+/* PLUGINS/MISCELLANEOUS===================================================================*/
+
+/*Change color of passsword prompt on Smart Password pages*/
+p#smartPWError {
+    padding: 5px;
+    color: red;
+    font-weight: bolder;
+}
+
+/*Align password input and submit button on Smart Password page*/
+input#smartPassword.requiredField{
+margin-bottom:0px;
+}
+
+ /*-----------------------------------------------------------*/
+
+
+/*Provides simple column layout on page (e.g. bulleted list)*/
+.colmns {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+}
+
+/* Events ====================================================================================*/
+
+.tribe-events-single-event-title {
+    font-size:200%;
+}
+div.tribe-events-schedule h2{
+    font-style:normal!important;
+    font-weight:normal!important;
+    font-size:1.5em;
+    margin-top:0;
+}
+.tribe-events-cost {
+    font-size:2em;
+    font-weight:700!important;
+} 
+/*positon of next/prv month in month view*/
+.tribe-events-month #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a, .tribe-events-month #tribe-events-header .tribe-events-sub-nav li {
+   display: block;
+}
+
+/*.tribe-event-time {
+    font-weight:400!important;
+    font-size:1em!important;
+}*/
+#tribe-events-content {
+    background-color:#fff;
+    padding:20px;
+}
+/* Accordions ====================================================================================*/
+#citizenship-accordion .x-accordion-heading .x-accordion-toggle {
+    font-size:14pt!important;
+    margin-left:0px!important;
+    margin-right:0px!important;
+    padding-left:5px!important;
+    padding-bottom:5px!important;
+    padding-top:5px!important;
+}
+
+/* === Front Page Slideshow image === */
+.fpimage{
+    display: block;
+    margin: auto;
+}
+
+.tablepress thead th{
+	background-color: rgba(157,22,45,0.1)!important;
+	font-size: 10pt!important;
+	white-space: nowrap!important;
+}
+.tablepress tfoot th{
+	background-color: #ffffff!important;
+	border-top: 1px dotted rgba(157,22,45,0.5)!important;
+}

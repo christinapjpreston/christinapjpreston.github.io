@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>higher education | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/higher-education/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:52 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Tools for empowering teachers’ learning:</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/tools-empowering-teachers-learning/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[higher education]]></category>
+		<category><![CDATA[ICT]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[student]]></category>
+		<category><![CDATA[teacher]]></category>
+		<guid isPermaLink="false">http://u3e.55d.mywebsitetransfer.com/blog/2015/01/14/tools-empowering-teachers-learning/</guid>
+
+					<description><![CDATA[The staff trainer’s responsibility [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract Despite Government initiatives a significant number of teachers are still without personal computing resources that they can use both at home and in the workplace. The structure of the classroom precludes ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/tools-empowering-teachers-learning/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reception at the House of Lords</title>
+		<link>https://mirandanet.ac.uk/blog/2014/10/22/reception-at-the-house-of-lords/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2014 23:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[higher education]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2014/10/22/reception-at-the-house-of-lords/</guid>
+
+					<description><![CDATA[MirandaNetters were warmly invited to attend a Reception at the House of Lords on 30th September 2014 by Professor Margaret Cox who has become president of NCUP (National Conference of University Professors). The reception was organised by NCUP and hosted ... <div><a href="https://mirandanet.ac.uk/blog/2014/10/22/reception-at-the-house-of-lords/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

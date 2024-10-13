@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>usage | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/usage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:09:50 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Teachers&#8217; Use of Forums for E-Learning</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/16/teachers-use-forums-e-learning-2/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[Dave Wallbanks]]></category>
+		<category><![CDATA[forum]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[Neil McDonald]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[teacher]]></category>
+		<category><![CDATA[usage]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/16/teachers-use-forums-e-learning-2/</guid>
+
+					<description><![CDATA[Examination of SchoolHistory Forum &#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract A review of the possibilities for the use of forums by teachers as part of their e-learnig, looking at those who use them, how they are used and why some ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/16/teachers-use-forums-e-learning-2/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Teachers&#8217; Use of Forums E-learning</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/16/teachers-use-forums-e-learning/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[forum]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[teacher]]></category>
+		<category><![CDATA[usage]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/16/teachers-use-forums-e-learning/</guid>
+
+					<description><![CDATA[&#160; &#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract A review of the possibilities for use of forums by teachers as part of their e-learning, looking at those who do use them, how they are used and why some teachers don&#8217;t ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/16/teachers-use-forums-e-learning/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

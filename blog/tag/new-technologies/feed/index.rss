@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>new technologies | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/new-technologies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:34 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>ICT &#8211; an international perspective</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/12/template-case-study/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[classroom]]></category>
+		<category><![CDATA[ICT]]></category>
+		<category><![CDATA[new technologies]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[teacher]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/12/template-case-study/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract The information in this article is based on visits to school through a series of programmes over the space of nearly fifteen years. Starting with the involvement in Web for Schools Project in ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/12/template-case-study/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

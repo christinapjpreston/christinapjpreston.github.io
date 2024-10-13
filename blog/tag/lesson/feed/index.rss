@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lesson | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/lesson/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Physical Education: an Interactive Approach</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/13/physical-education-interactive-approach/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[lesson]]></category>
+		<category><![CDATA[PE]]></category>
+		<category><![CDATA[physical education]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[student]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/13/physical-education-interactive-approach/</guid>
+
+					<description><![CDATA[‘You can’t use technology – you teach PE.’ &#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract How often has the above phrase or something similar been bantered about the staffroom? I used to hear such comments a number of years ago but ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/13/physical-education-interactive-approach/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

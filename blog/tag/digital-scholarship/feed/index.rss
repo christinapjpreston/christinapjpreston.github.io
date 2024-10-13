@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>digital scholarship | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/digital-scholarship/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:08:25 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>BBC News: Too many school libraries face cuts or closure</title>
+		<link>https://mirandanet.ac.uk/blog/2016/04/06/too-many-school-libraries-face-cuts-or-closure-bbc-newsbbc-news/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[digital scholarship]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/04/06/too-many-school-libraries-face-cuts-or-closure-bbc-newsbbc-news/</guid>
+
+					<description><![CDATA[Too many school libraries in England face cuts or closure with schools increasingly viewing books as obsolete, a teachers&#8217; union has heard. One head teacher decided &#8220;all reading can be done on iPads,&#8221; a delegate told the Association of Teachers ... <div><a href="https://mirandanet.ac.uk/blog/2016/04/06/too-many-school-libraries-face-cuts-or-closure-bbc-newsbbc-news/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

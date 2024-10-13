@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>surveillance | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/surveillance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:08:27 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>How License-Plate Readers Have Helped Police and Lenders Target the Poor &#8211; The Atlantic</title>
+		<link>https://mirandanet.ac.uk/blog/2016/12/22/how-license-plate-readers-have-helped-police-and-lenders-target-the-poor-the-atlantic/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[mnews]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/12/22/how-license-plate-readers-have-helped-police-and-lenders-target-the-poor-the-atlantic/</guid>
+
+					<description><![CDATA[Maybe you’ve seen them attached to the trunks of police cruisers: cameras, mounted in twos or threes, pointed down at an odd angle as if at the feet of passersby. But they’re not checking out your shoes—when switched on, they’re ... <div><a href="https://mirandanet.ac.uk/blog/2016/12/22/how-license-plate-readers-have-helped-police-and-lenders-target-the-poor-the-atlantic/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shoshana Zuboff: Secrets of Surveillance Capitalism</title>
+		<link>https://mirandanet.ac.uk/blog/2016/03/25/shoshana-zuboff-secrets-of-surveillance-capitalism/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/03/25/shoshana-zuboff-secrets-of-surveillance-capitalism/</guid>
+
+					<description><![CDATA[Governmental control is nothing compared to what Google is up to. The company is creating a wholly new genus of capitalism, a systemic coherent new logic of accumulation we should call surveillance capitalism. Is there nothing we can do?surveillance capitalism. ... <div><a href="https://mirandanet.ac.uk/blog/2016/03/25/shoshana-zuboff-secrets-of-surveillance-capitalism/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

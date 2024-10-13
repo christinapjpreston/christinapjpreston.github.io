@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Professional Development | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/professional-development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Thu, 05 Sep 2019 11:13:03 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Rescuing Digital Literacy through Professional Development</title>
+		<link>https://mirandanet.ac.uk/blog/2017/01/24/rescuing-digital-literacy-professional-development/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[curriculum]]></category>
+		<category><![CDATA[digital literacy]]></category>
+		<category><![CDATA[Digital Schools]]></category>
+		<category><![CDATA[Professional Development]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/01/24/rescuing-digital-literacy-professional-development/</guid>
+
+					<description><![CDATA[Today, most teachers and most school pupils in the UK have access to digital devices. However, do we do enough to educate students about the often complex issues surrounding the everyday use of technology? And given the crucial role of ... <div><a href="https://mirandanet.ac.uk/blog/2017/01/24/rescuing-digital-literacy-professional-development/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

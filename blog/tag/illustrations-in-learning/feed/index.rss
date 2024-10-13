@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>illustrations in learning | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/illustrations-in-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:11:11 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Elearning a cultural Perspective</title>
+		<link>https://mirandanet.ac.uk/blog/2005/01/18/elearning-cultural-perspective/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2005 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[elearning]]></category>
+		<category><![CDATA[illustrations in learning]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[Visual Imagery]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2005/01/18/elearning-cultural-perspective/</guid>
+
+					<description><![CDATA[&#160; The importance of illustrations in learning [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract The world is gradually becoming a smaller place. With the use of graphics and other illustrations in the learning process, pupils can now be classified as virtual ... <div><a href="https://mirandanet.ac.uk/blog/2005/01/18/elearning-cultural-perspective/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

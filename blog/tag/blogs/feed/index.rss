@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blogs | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:09:51 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Template: Case Study</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/template-case-study-4/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[special needs]]></category>
+		<guid isPermaLink="false">http://u3e.55d.mywebsitetransfer.com/blog/2015/01/14/template-case-study-4/</guid>
+
+					<description><![CDATA[A Pilot Study Exploring Blogs as a Learning Tool  for Middle School Students with Special Needs [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract Author: Mechelle De Craene  Publication Date: 2006 [s2If !is_user_logged_in()]To see the complete Case Study, please Login or Join.[/s2If] [divide margin_top=&#8221;10&#8243; ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/template-case-study-4/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

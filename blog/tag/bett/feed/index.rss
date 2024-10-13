@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BETT | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/bett/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:53 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Film and teacher driven CPD</title>
+		<link>https://mirandanet.ac.uk/blog/2011/05/09/film-and-teacher-driven-cpd/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sun, 08 May 2011 23:00:00 +0000</pubDate>
+				<category><![CDATA[Knowledge Hub]]></category>
+		<category><![CDATA[Learning Observations]]></category>
+		<category><![CDATA[Professional Development]]></category>
+		<category><![CDATA[BETT]]></category>
+		<category><![CDATA[CPD]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[MirandaMod]]></category>
+		<category><![CDATA[TeachMeets]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2011/05/09/film-and-teacher-driven-cpd/</guid>
+
+					<description><![CDATA[Film and teacher driven CPD. How MirandaMods and TeachMeets promote professional reflection and good practice. [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] How TeachMeets and MirandaMods are one of the best and most cost-effective resources for teacher training, reflection and good practice. In ... <div><a href="https://mirandanet.ac.uk/blog/2011/05/09/film-and-teacher-driven-cpd/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Communities of enquiry | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/communities-of-enquiry/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Mon, 11 Mar 2024 20:20:55 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>An investigation using online environments and collaborative e-learning with primary pupils.</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/16/investigation-using-online-environments-collaborative-e-learning-primary-pupils/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[Communities of enquiry]]></category>
+		<category><![CDATA[e-learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/16/investigation-using-online-environments-collaborative-e-learning-primary-pupils/</guid>
+
+					<description><![CDATA[Using online environments to learn effectively. Abstract The GTCE/Institute of Education e-facilitation project explores the field of e-learning through the conventions and affordances of new technologies. The impact of new technology on educational practices is relatively underdeveloped in comparison to ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/16/investigation-using-online-environments-collaborative-e-learning-primary-pupils/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

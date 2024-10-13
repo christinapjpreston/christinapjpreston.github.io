@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>International | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/international/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Tue, 27 Aug 2019 13:02:17 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Collaborative lifelong learning for teacher educators across cultural boundaries</title>
+		<link>https://mirandanet.ac.uk/blog/2017/08/29/collaborative-lifelong-learning-teacher-educators-across-cultural-boundaries/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[CPD]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Learning]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/08/29/collaborative-lifelong-learning-teacher-educators-across-cultural-boundaries/</guid>
+
+					<description><![CDATA[Christina Preston, Founder MirandaNet Fellowship Sarah Younie, MirandaNet Fellowship, Institute for Education Futures, University of De Montfort Bozena Mannova, MirandaNet Fellowship, Prague Technical University. Since the 1990s the authors of this paper have been sharing their professional knowledge about the ... <div><a href="https://mirandanet.ac.uk/blog/2017/08/29/collaborative-lifelong-learning-teacher-educators-across-cultural-boundaries/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

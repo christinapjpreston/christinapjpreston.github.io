@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>text-to-speech | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/text-to-speech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:34 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Can Tablets Help to Remove Barriers to Reading for Learners with Special Educational Needs and Disabilities?</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/12/can-tablets-help-remove-barriers-reading-learners-special-educational-needs-disabilities/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[text-to-speech]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/12/can-tablets-help-remove-barriers-reading-learners-special-educational-needs-disabilities/</guid>
+
+					<description><![CDATA[[divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract For learners with special educational needs and disabilities (SEND), technology can provide a range of additional benefits in the learning environment. Since September 2012 schools have had a duty to anticipate and provide auxiliary aids ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/12/can-tablets-help-remove-barriers-reading-learners-special-educational-needs-disabilities/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

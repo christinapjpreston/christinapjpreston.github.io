@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>online communities | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/online-communities/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:09 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Mapping the Route: Steps to E-facilitation</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/15/mapping-route-steps-e-facilitation/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[educational forums]]></category>
+		<category><![CDATA[experimental learning process]]></category>
+		<category><![CDATA[five stages]]></category>
+		<category><![CDATA[groupwork]]></category>
+		<category><![CDATA[online communities]]></category>
+		<category><![CDATA[online forums]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/15/mapping-route-steps-e-facilitation/</guid>
+
+					<description><![CDATA[&#160; E-facilitation in E-communities: Coursework [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract The study is a compilation of four assignments designed to chart our group and personal progress and e-learning as the course of e-facilitation study has developed. The first step is ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/15/mapping-route-steps-e-facilitation/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Beyond Collaborative Learning</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/beyond-collaborative-learning/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[communal constructivism]]></category>
+		<category><![CDATA[e-facilitation]]></category>
+		<category><![CDATA[e-learning]]></category>
+		<category><![CDATA[online communities]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://u3e.55d.mywebsitetransfer.com/blog/2015/01/14/beyond-collaborative-learning/</guid>
+
+					<description><![CDATA[&#160; Communal construction of knowledge in an online environment [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract The drive for e-learning as a cost-effective and flexible channel for distance and life-long learning has focused on the benefits of a just-in-time delivery of content ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/beyond-collaborative-learning/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Papert | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/papert/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The Education Partners · TRANSFORMING LEARNING &#124; Intelligence : The True Digital Leap to the School of Tomorrow</title>
+		<link>https://mirandanet.ac.uk/blog/2016/08/03/the-education-partners-%c2%b7-transforming-learning-intelligence-the-true-digital-leap-to-the-school-of-tomorrow/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[Papert]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/08/03/the-education-partners-%c2%b7-transforming-learning-intelligence-the-true-digital-leap-to-the-school-of-tomorrow/</guid>
+
+					<description><![CDATA[─ Read item ─]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The History of Mr. Papert</title>
+		<link>https://mirandanet.ac.uk/blog/2016/08/02/the-history-of-mr-papert/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[Papert]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/08/02/the-history-of-mr-papert/</guid>
+
+					<description><![CDATA[This article outlines the life and career of Seymour A. Papert through the mid-1990s. We follow the development of Papert from his early formal and informal education in the South Africa of the 1930&#8217;s through to his sage era in ... <div><a href="https://mirandanet.ac.uk/blog/2016/08/02/the-history-of-mr-papert/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Professor Emeritus Seymour Papert, pioneer of constructionist learning, dies at 88 &#124; MIT News</title>
+		<link>https://mirandanet.ac.uk/blog/2016/08/02/professor-emeritus-seymour-papert-pioneer-of-constructionist-learning-dies-at-88-mit-news/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[Papert]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/08/02/professor-emeritus-seymour-papert-pioneer-of-constructionist-learning-dies-at-88-mit-news/</guid>
+
+					<description><![CDATA[MIT News: Seymour Papert, whose ideas and inventions transformed how millions of children around the world create and learn, died Sunday at his home in East Blue Hill, Maine. He was 88. ─ Read item ─]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>From Girls to Boys</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/girls-boys/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[consructivist model]]></category>
+		<category><![CDATA[Papert]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[robots simulation]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/14/girls-boys/</guid>
+
+					<description><![CDATA[&#160; “Tell me and I’ll forget. Show me and I may remember. Involve me and I’ll understand.” [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract In recent years, the education of boys has sparked a great deal of debate in all educational ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/girls-boys/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bigdata | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/bigdata/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:08:51 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>How To Satisfy Demand For The Biggest Job Of The 21st Century &#124; Fast Company &#124; Business Innovation</title>
+		<link>https://mirandanet.ac.uk/blog/2016/04/01/how-to-satisfy-demand-for-the-biggest-job-of-the-21st-century-fast-company-business-innovation/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[bigdata]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/04/01/how-to-satisfy-demand-for-the-biggest-job-of-the-21st-century-fast-company-business-innovation/</guid>
+
+					<description><![CDATA[Data scientist is not only the top job this year (the position ranked number one onGlassdoor’s top jobs for 2016) but based on hiring demand and the potential for salary growth it&#8217;s poised to be the top job in the ... <div><a href="https://mirandanet.ac.uk/blog/2016/04/01/how-to-satisfy-demand-for-the-biggest-job-of-the-21st-century-fast-company-business-innovation/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Are We Mining Data Instead Of Answering Questions? &#8211; Forbes</title>
+		<link>https://mirandanet.ac.uk/blog/2016/03/20/are-we-mining-data-instead-of-answering-questions-forbes/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[bigdata]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/03/20/are-we-mining-data-instead-of-answering-questions-forbes/</guid>
+
+					<description><![CDATA[&#8220;One of the most striking things about the “big data” world of today is the focus on mining data over answering questions. So many projects start with asking what data is easily obtainable and which tools are most easily amenable to ... <div><a href="https://mirandanet.ac.uk/blog/2016/03/20/are-we-mining-data-instead-of-answering-questions-forbes/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

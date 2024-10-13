@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Computing Curriculum | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/computing-curriculum/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:09:14 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Digital Deceptions?</title>
+		<link>https://mirandanet.ac.uk/blog/2017/09/17/digital-deceptions/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sat, 16 Sep 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[Computing Curriculum]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/09/17/digital-deceptions/</guid>
+
+					<description><![CDATA[Ben Williamson’s constructive and justifiably irate article &#8216;Coding for What?&#8217;posted in the MirandaNet Blog doubtless resonates with many former ICT teachers in England. His description captures how it seemed to many observers and participants: a frantic, ideologically driven, and peremptory ... <div><a href="https://mirandanet.ac.uk/blog/2017/09/17/digital-deceptions/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Coding for what? Lessons from computing in the curriculum</title>
+		<link>https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/</link>
+					<comments>https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/#comments</comments>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Computing]]></category>
+		<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[Computing Curriculum]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/</guid>
+
+					<description><![CDATA[Faculty of Social Science, University of Stirling This article was first published in the 2017 summer edition of the Naace Advancing Education Journal edited by Christina Preston. You can find out about Naace here. www.naace.co.uk  Summary             The subject of ... <div><a href="https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/" class="more-link">Read More</a></div>]]></description>
+		
+					<wfw:commentRss>https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>An interview concerning the scrapping of ICT</title>
+		<link>https://mirandanet.ac.uk/blog/2015/12/06/an-interview-concerning-the-scrapping-of-ict/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[Computing Curriculum]]></category>
+		<category><![CDATA[ICT Curriculum]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/12/06/an-interview-concerning-the-scrapping-of-ict/</guid>
+
+					<description><![CDATA[A guest post reproduced from Terry Freedman&#8217;s website© The Government in England has decided to get rid of the ICT &#8212; Information and Communication Technology &#8212; qualifications at GCSE and &#8216;A&#8217; Level. (For the uninitiated, those are the school-leaving qualifications ... <div><a href="https://mirandanet.ac.uk/blog/2015/12/06/an-interview-concerning-the-scrapping-of-ict/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

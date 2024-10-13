@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CADCAM | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/cadcam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:09 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Applying CAD/CAM in Primary Schools to Aid Transition</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/applying-cadcam-primary-schools-aid-transition/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[CADCAM]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[design and technology]]></category>
+		<category><![CDATA[primary school]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[transition]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/14/applying-cadcam-primary-schools-aid-transition/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract For the past thirty years, the promise of increasing processing power, quantum leaps in storage, nearly unlimited bandwidth, and the shrinking of computers into handheld devices, has caused many educators to dream about the ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/applying-cadcam-primary-schools-aid-transition/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>laptop | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/laptop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:11 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>e-Learning: Pupils&#8217; Perspectives</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/e-learning-pupils-perspectives/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[elearning]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[pupils]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[teachers]]></category>
+		<guid isPermaLink="false">http://u3e.55d.mywebsitetransfer.com/blog/2015/01/14/e-learning-pupils-perspectives/</guid>
+
+					<description><![CDATA[What are their views on how eLearning might impact on motivation, learning, roles of teachers, achievement and attainment? [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract Abstract E-learning is a term of the moment in the world of education. It boasts, at its ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/e-learning-pupils-perspectives/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Use of Laptops: a US Approach</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/use-laptops-us-approach/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://u3e.55d.mywebsitetransfer.com/blog/2015/01/14/use-laptops-us-approach/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract I drafted a case study following a visit to a school in Nashville where every pupil had a laptop computer. When we get to this point in the UK we will think very differently ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/use-laptops-us-approach/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

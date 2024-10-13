@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>classroom safety | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/classroom-safety/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:05:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Health and Safety gone digital</title>
+		<link>https://mirandanet.ac.uk/blog/2017/05/14/health-safety-gone-digital/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sat, 13 May 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[classroom safety]]></category>
+		<category><![CDATA[edtech]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/05/14/health-safety-gone-digital/</guid>
+
+					<description><![CDATA[Once upon a time there was no ‘Computing’ in the curriculum. When it first appeared nationally it was wrapped within ‘Technology’ alongside ‘Food Tech’ and ‘Design Tech, and often taught on a carousel with those as well. Before that time ... <div><a href="https://mirandanet.ac.uk/blog/2017/05/14/health-safety-gone-digital/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

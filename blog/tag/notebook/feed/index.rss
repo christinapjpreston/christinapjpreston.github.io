@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>notebook | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/notebook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Digital Opportunities</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/13/digital-opportunities/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[notebook]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[student]]></category>
+		<category><![CDATA[Think.com]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/13/digital-opportunities/</guid>
+
+					<description><![CDATA[[divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract The Digital Opportunities project explores strategies to bridge the digital divide. Students have been provided with notebook computers by Toshiba, and a web-based publishing and learning environment by Oracle. The students are encouraged to develop ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/13/digital-opportunities/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wireless Connectivity</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/13/wireless-connectivity/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[ICT]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[notebook]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[student]]></category>
+		<category><![CDATA[wireless technology]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/13/wireless-connectivity/</guid>
+
+					<description><![CDATA[Connecting Notebooks and Laptops without the need for cables [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract It all began when a strange looking object arrived in the post.  It was a mini-disk but it had been cut into the shape of a ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/13/wireless-connectivity/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

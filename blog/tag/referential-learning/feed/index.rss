@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>referential learning | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/referential-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Radio as an Effective E-Learning Tool</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/radio-effective-e-learning-tool/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[collaborative learning]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[referential learning]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[school]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/14/radio-effective-e-learning-tool/</guid>
+
+					<description><![CDATA[&#160; To evaluate the use of Radio as an effective e-learning tool and what learning takes place amongst the participants. [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract From the evidence of the research, it is quite apparent that learning is taking place ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/radio-effective-e-learning-tool/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

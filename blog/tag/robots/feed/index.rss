@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>robots | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/robots/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:08:51 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Farminator: Robot ranchers replacing humans in agriculture (VIDEOS) — RT Viral</title>
+		<link>https://mirandanet.ac.uk/blog/2016/05/22/farminator-robot-ranchers-replacing-humans-in-agriculture-videos-rt-viral/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sat, 21 May 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[robots]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/05/22/farminator-robot-ranchers-replacing-humans-in-agriculture-videos-rt-viral/</guid>
+
+					<description><![CDATA[As technology advances, the future of farming is about to change drastically with the rise of robots being used in agricultural work as alternatives to manpower. &#8220;Farmbots” are now being used as shepherds in the Australian outback where farmers struggle to ... <div><a href="https://mirandanet.ac.uk/blog/2016/05/22/farminator-robot-ranchers-replacing-humans-in-agriculture-videos-rt-viral/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wired: Root Is a Little Robot on a Mission to Teach Kids to Code</title>
+		<link>https://mirandanet.ac.uk/blog/2016/04/19/wired-root-is-a-little-robot-on-a-mission-to-teach-kids-to-code/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[robots]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/04/19/wired-root-is-a-little-robot-on-a-mission-to-teach-kids-to-code/</guid>
+
+					<description><![CDATA[Root is a small, squat hexagon, a cheerful and friendly &#8216;bot reminiscent of the robot vacuum-cleaning&#160;Roomba. Scanners dot its bottom, bumpers line its sides, and there&#8217;s a touch interface on top. Root knows when it&#8217;s on a magnetic surface. A ... <div><a href="https://mirandanet.ac.uk/blog/2016/04/19/wired-root-is-a-little-robot-on-a-mission-to-teach-kids-to-code/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ministry of Defence military exercise will feature &#8216;killer robots&#8217; &#124; Science &#124; The Guardian</title>
+		<link>https://mirandanet.ac.uk/blog/2016/03/17/ministry-of-defence-military-exercise-will-feature-killer-robots-science-the-guardian/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[robots]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/03/17/ministry-of-defence-military-exercise-will-feature-killer-robots-science-the-guardian/</guid>
+
+					<description><![CDATA[The Ministry of Defence is organising its first-ever “Robo-Wars” exercise this autumn, using drones, seacraft and a host of other innovations as part of the growing trend towards reducing the role of humans in combat ─ Read item ─]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

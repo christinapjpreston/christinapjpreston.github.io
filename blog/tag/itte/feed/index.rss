@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ITTE | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/itte/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:09:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apply for a Research Fellowship of £1,000</title>
+		<link>https://mirandanet.ac.uk/blog/2015/07/12/invitation-to-apply-for-a-research-fellowship/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Sat, 11 Jul 2015 23:00:00 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[ITTE]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/07/12/invitation-to-apply-for-a-research-fellowship/</guid>
+
+					<description><![CDATA[[vc_row][vc_column width=&#8221;1/1&#8243;][vc_column_text] ITTE knowledge mobilisation strategy IT in Teacher Education Research Fellowship Programme Phase 1: 2015-2016 ITTE Fellowships worth up to £1000 are available to support a Research Fellow to lead a team in the review and synthesis of existing research on a topic of interest within the field ... <div><a href="https://mirandanet.ac.uk/blog/2015/07/12/invitation-to-apply-for-a-research-fellowship/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Upcoming Event &#8211; What the research says</title>
+		<link>https://mirandanet.ac.uk/blog/2015/05/13/upcoming-event-what-the-research-says/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Tue, 12 May 2015 23:00:00 +0000</pubDate>
+				<category><![CDATA[Archived News]]></category>
+		<category><![CDATA[ITTE]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/05/13/upcoming-event-what-the-research-says/</guid>
+
+					<description><![CDATA[You are invited to 20th Research Event. Friday 5th June at 1:30-4:00 at the London Knowledge Lab: Excellence in education and in educational technology is critical for the UK to compete globally, and for the success of individual education providers. ... <div><a href="https://mirandanet.ac.uk/blog/2015/05/13/upcoming-event-what-the-research-says/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Report on ITTE conference in July</title>
+		<link>https://mirandanet.ac.uk/blog/2015/05/12/deadline-to-submit-paper-for-the-itte-conference/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 23:00:00 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[ITTE]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/05/12/deadline-to-submit-paper-for-the-itte-conference/</guid>
+
+					<description><![CDATA[[vc_row][vc_column width=&#8221;1/1&#8243;][vc_column_text] Digital Futures: Shaping tomorrow&#8217;s learning and teaching ITTE and sister organisations, MirandaNet and MESH, held a conference in July in which they focused on new Computing Curriculum that has been in schools in England since September 2014. At the ... <div><a href="https://mirandanet.ac.uk/blog/2015/05/12/deadline-to-submit-paper-for-the-itte-conference/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

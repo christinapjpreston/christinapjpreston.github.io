@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>learning theory | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/learning-theory/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:11:11 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Learning Theory and e-pedagogy</title>
+		<link>https://mirandanet.ac.uk/blog/2005/01/17/learning-theory-e-pedagogy/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2005 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[affordance]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[learning styles]]></category>
+		<category><![CDATA[learning theory]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2005/01/17/learning-theory-e-pedagogy/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract Conventional pedagogical practices focus on the means and ends of delivery, with the emphasis on content management and information transmission. The role of classroom management is to produce an environment that facilitates the process ... <div><a href="https://mirandanet.ac.uk/blog/2005/01/17/learning-theory-e-pedagogy/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

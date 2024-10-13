@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uruguay | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/uruguay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Digital Initiatives In Argentina</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/11/giving-netbooks-to-learners-in-argentina-columbia-thailand-uruguay-and-the-usa/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Braided Learning]]></category>
+		<category><![CDATA[Columbia]]></category>
+		<category><![CDATA[Digital]]></category>
+		<category><![CDATA[Mobile Device]]></category>
+		<category><![CDATA[Netbooks]]></category>
+		<category><![CDATA[Thailand]]></category>
+		<category><![CDATA[Uruguay]]></category>
+		<category><![CDATA[USA]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/11/giving-netbooks-to-learners-in-argentina-columbia-thailand-uruguay-and-the-usa/</guid>
+
+					<description><![CDATA[[vc_row][vc_column width=&#8221;1/1&#8243;][vc_column_text] Digital Initiatives In Argentina Across the world a growing number of  initiatives are putting netbooks in the hand of the learners: these mobile devices are believed  to improve motivation and raise achievement. I have just returned from speaking ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/11/giving-netbooks-to-learners-in-argentina-columbia-thailand-uruguay-and-the-usa/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

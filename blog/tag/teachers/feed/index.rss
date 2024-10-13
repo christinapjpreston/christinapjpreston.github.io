@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teachers | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/teachers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Thu, 05 Sep 2019 11:11:08 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Don&#8217;t lose the essence of what it means to teach.</title>
+		<link>https://mirandanet.ac.uk/blog/2017/03/23/dont-lose-essence-means-teach/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+				<category><![CDATA[MirandaNet Blog]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[CPD]]></category>
+		<category><![CDATA[curriculum]]></category>
+		<category><![CDATA[teachers]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2017/03/23/dont-lose-essence-means-teach/</guid>
+
+					<description><![CDATA[[ Web editor note: this is a lightly edited version of the article that appeared in The TES 17th March 2017.&#160;With permission, a scanned version of the article is here.] Christina Preston and Sarah Younie, March 2017 “There has never ... <div><a href="https://mirandanet.ac.uk/blog/2017/03/23/dont-lose-essence-means-teach/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>e-Learning: Pupils&#8217; Perspectives</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/14/e-learning-pupils-perspectives/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[elearning]]></category>
+		<category><![CDATA[interactive learning]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[pupils]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[teachers]]></category>
+		<guid isPermaLink="false">http://u3e.55d.mywebsitetransfer.com/blog/2015/01/14/e-learning-pupils-perspectives/</guid>
+
+					<description><![CDATA[What are their views on how eLearning might impact on motivation, learning, roles of teachers, achievement and attainment? [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract Abstract E-learning is a term of the moment in the world of education. It boasts, at its ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/14/e-learning-pupils-perspectives/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

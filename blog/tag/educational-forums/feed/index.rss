@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>educational forums | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/educational-forums/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:11:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Mapping the Route: Steps to E-facilitation</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/15/mapping-route-steps-e-facilitation/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[educational forums]]></category>
+		<category><![CDATA[experimental learning process]]></category>
+		<category><![CDATA[five stages]]></category>
+		<category><![CDATA[groupwork]]></category>
+		<category><![CDATA[online communities]]></category>
+		<category><![CDATA[online forums]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/15/mapping-route-steps-e-facilitation/</guid>
+
+					<description><![CDATA[&#160; E-facilitation in E-communities: Coursework [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Abstract The study is a compilation of four assignments designed to chart our group and personal progress and e-learning as the course of e-facilitation study has developed. The first step is ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/15/mapping-route-steps-e-facilitation/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reflections on e-moderating and e-learning</title>
+		<link>https://mirandanet.ac.uk/blog/2005/01/18/reflections-e-moderating-e-learning/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2005 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[code of conduct]]></category>
+		<category><![CDATA[educational forums]]></category>
+		<category><![CDATA[G. Salmon]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[Salmon's theory]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2005/01/18/reflections-e-moderating-e-learning/</guid>
+
+					<description><![CDATA[&#160; The code of conduct, the skills for participating in the forums, Educational forums, the model of G. Salmon. [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] Author: Anna Pleshakova Publication Date: 2005 [s2If !is_user_logged_in()]To see the complete Case Study, please Login or Join.[/s2If] [divide margin_top=&#8221;10&#8243; ... <div><a href="https://mirandanet.ac.uk/blog/2005/01/18/reflections-e-moderating-e-learning/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

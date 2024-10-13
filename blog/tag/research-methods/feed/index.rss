@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>research methods | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/research-methods/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:08:52 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Times Higher Education: Ban academics talking to ministers? We should train them to do it.</title>
+		<link>https://mirandanet.ac.uk/blog/2016/03/07/times-higher-education-ban-academics-talking-to-ministers-we-should-train-them-to-do-it/</link>
+		
+		<dc:creator><![CDATA[Rob Ellis]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[mnfeed]]></category>
+		<category><![CDATA[research methods]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2016/03/07/times-higher-education-ban-academics-talking-to-ministers-we-should-train-them-to-do-it/</guid>
+
+					<description><![CDATA[Last month it was quietly announced that anyone receiving research grants from the state will be banned from lobbying “government and Parliament” on either policy issues or funding. The rule is said to be aimed principally at charities, but who knows the ... <div><a href="https://mirandanet.ac.uk/blog/2016/03/07/times-higher-education-ban-academics-talking-to-ministers-we-should-train-them-to-do-it/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

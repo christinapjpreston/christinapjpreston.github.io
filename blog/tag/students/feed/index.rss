@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>students | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/students/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:10:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>How children learn: 12 principles of learning &#8211; A checklist</title>
+		<link>https://mirandanet.ac.uk/blog/2015/01/12/children-learn-12-principles-learning-checklist/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[learning environments]]></category>
+		<category><![CDATA[principles of learning]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[students]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2015/01/12/children-learn-12-principles-learning-checklist/</guid>
+
+					<description><![CDATA[&#160; [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Abstract This checklist is based on Stella Vosiniadou&#8217;s work. You can download the checklist as a Word document. Author: Piet Rodenhuis Publication Date: 2010 [s2If !is_user_logged_in()]To see the complete Case Study, please Login or Join.[/s2If] ... <div><a href="https://mirandanet.ac.uk/blog/2015/01/12/children-learn-12-principles-learning-checklist/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

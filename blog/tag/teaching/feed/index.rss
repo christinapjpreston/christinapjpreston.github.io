@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teaching | MirandaNet</title>
+	<atom:link href="https://mirandanet.ac.uk/blog/tag/teaching/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mirandanet.ac.uk</link>
+	<description>MirandaNet Fellowship</description>
+	<lastBuildDate>Sat, 29 Jun 2019 21:11:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>St. Mary&#8217;s School, Waverley &#8211; Progress</title>
+		<link>https://mirandanet.ac.uk/blog/2005/01/18/st-marys-school-waverley-progress/</link>
+		
+		<dc:creator><![CDATA[Dr Christina Preston]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2005 00:00:00 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[case study]]></category>
+		<category><![CDATA[ICT in teaching]]></category>
+		<category><![CDATA[interactive whiteboards]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[teaching]]></category>
+		<guid isPermaLink="false">http://mirandanet.ac.uk/blog/2005/01/18/st-marys-school-waverley-progress/</guid>
+
+					<description><![CDATA[&#160; Interactive Whiteboard Project (Feb – April 2005) [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] &#160; Author: Jenny Ketley Publication Date: 2005 [s2If !is_user_logged_in()]To see the complete Case Study, please Login or Join.[/s2If] [divide margin_top=&#8221;10&#8243; margin_bottom=&#8221;10&#8243; color=&#8221;#a0a0a0&#8243;] [s2If is_user_logged_in()] &#160; Training received: Observation at BETT Workshop ... <div><a href="https://mirandanet.ac.uk/blog/2005/01/18/st-marys-school-waverley-progress/" class="more-link">Read More</a></div>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
